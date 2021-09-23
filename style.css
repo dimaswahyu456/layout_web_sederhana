@@ -9,7 +9,6 @@ body {
 }
 
 body .container {
-    height: 600px;
     margin: 0 auto;
     background-color: #ffffff;
 }
@@ -59,7 +58,6 @@ header h2 {
 
 .kiri {
     width: 20%;
-    margin-right: 30px;
     margin-top: 10px;
     float: left;
     height: 100%;
